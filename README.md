@@ -1,4 +1,6 @@
-# 🤖 AI-Focused Full Stack Web/Mobile Developer
+<div align="center">
+  # 📌 AI-Focused Full Stack Web/Mobile Developer
+</div>
 
 <div align="center">
   <img src="https://img.shields.io/badge/AI-ML%20Developer-purple?style=for-the-badge&logo=tensorflow" alt="AI/ML Developer" />
@@ -240,7 +242,7 @@ export function ChatInterface() {
 
 <div align="center">
   <img src="https://img.shields.io/badge/Machine%20Learning-Python-blue?style=for-the-badge&logo=python&logoColor=white" alt="ML Python" />
-  <img src="https://img.shields.io/badge/Mobile-Development-React%20Native-green?style=for-the-badge&logo=react&logoColor=white" alt="Mobile" />
+  <img src="https://img.shields.io/badge/Mobile-Development-React%20Native?style=for-the-badge&logo=react&logoColor=white" alt="Mobile" />
   <img src="https://img.shields.io/badge/Full%20Stack-Developer-purple?style=for-the-badge&logo=fullstack&logoColor=white" alt="Full Stack" />
 </div>
 
